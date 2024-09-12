@@ -1,3 +1,5 @@
+![Welcome to Oulu](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # Welcome to Oulu, Finland
 
 Oulu is a vibrant city located in northern Finland, known for its unique blend of urban culture and stunning natural landscapes. It’s a hub of technology and education, often referred to as the "Silicon Valley of Finland." With its rich history, beautiful parks, and vibrant events, Oulu is a city full of life and innovation.
@@ -51,7 +53,5 @@ Here are some resources to learn more about Oulu:
 
 Thank you for visiting my website! I hope you find it informative and inspiring.
 
-![A scenic view of Oulu](https://images.app.goo.gl/4UunYJJxGwe2Ettn6)
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
