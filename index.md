@@ -9,15 +9,10 @@ Here are some of the top attractions in Oulu:
 
 1. **Oulu Castle**
    - Description: A historical castle that offers a glimpse into the city's past and hosts various events.
-   - [Learn More](https://www.oulucastle.fi)
+ 
    
 2. **Nallikari Beach**
    - Description: A beautiful sandy beach that is perfect for summer activities and relaxation.
-   - [Visit Nallikari](https://www.oulunranta.fi)
-
-3. **Oulu Market Hall**
-   - Description: A lively market featuring local products, foods, and crafts, perfect for experiencing local culture.
-   - [Explore the Market](https://www.oulunkauppahalli.fi)
 
 ### Cultural Events
 - **Oulu Music Festival**
@@ -28,7 +23,7 @@ Here are some of the top attractions in Oulu:
 
 ## About Oulu
 
-Oulu is a city that embraces technology and innovation while maintaining a strong connection to nature. It is home to several universities and research institutions, making it a center for education and development. The city boasts beautiful parks, cycling paths, and waterfront areas that enhance the quality of life for its residents and visitors.
+Oulu is home to several universities and research institutions, making it a center for education and development. The city boasts beautiful parks, cycling paths, and waterfront areas that enhance the quality of life for its residents and visitors.
 
 ### Key Facts
 - **Population**: Approximately 200,000 residents
@@ -48,9 +43,6 @@ If you have any questions about Oulu or need recommendations, feel free to reach
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
 
-### Follow Me on Social Media
-- [Twitter](https://twitter.com)
-- [GitHub](https://github.com)
 
 ## Additional Resources
 Here are some resources to learn more about Oulu:
@@ -59,7 +51,7 @@ Here are some resources to learn more about Oulu:
 
 Thank you for visiting my website! I hope you find it informative and inspiring.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Foulu-finland&psig=AOvVaw1Qy_3g0ehTX0XZh13DnvN8&ust=1726208965438000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZoMvlvIgDFQAAAAAdAAAAABAE)
+![A scenic view of Oulu, Finland](https://www.shutterstock.com/search/oulu-finland)
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
