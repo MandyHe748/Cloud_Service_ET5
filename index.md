@@ -51,7 +51,7 @@ Here are some resources to learn more about Oulu:
 
 Thank you for visiting my website! I hope you find it informative and inspiring.
 
-![A scenic view of Oulu, Finland](https://www.shutterstock.com/search/oulu-finland)
+![A scenic view of Oulu, Finland]()https://www.shutterstock.com/image-photo/oulu-finland-july-22-2022-toripolliisi-patsas-2467044281)
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
