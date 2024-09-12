@@ -1,6 +1,6 @@
 # My Static Website
 
-Welcome to my personal website! Here you'll find various information about my projects, skills, and experiences in web development.
+Welcome to my personal website! 
 
 ## Projects
 
