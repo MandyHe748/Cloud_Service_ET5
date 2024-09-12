@@ -1,1 +1,1 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://images.app.goo.gl/4UunYJJxGwe2Ettn6)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](h[ttps://images.app.goo.gl/4UunYJJxGwe2Ettn6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbeach&psig=AOvVaw1NDngAjvPQTgRVLRBxOI4L&ust=1726208431463000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiy9pjU4byIAxXLQlUIHe_4LYwQjRx6BAgAEBg))
