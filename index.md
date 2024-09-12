@@ -59,7 +59,7 @@ Here are some resources to learn more about Oulu:
 
 Thank you for visiting my website! I hope you find it informative and inspiring.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Foulu-finland&psig=AOvVaw1Qy_3g0ehTX0XZh13DnvN8&ust=1726208965438000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZoMvlvIgDFQAAAAAdAAAAABAE)
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
